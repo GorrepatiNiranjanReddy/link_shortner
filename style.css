@@ -1,0 +1,88 @@
+
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB9Whi_geNuLY5VAQNWVo3RDERwXL0Cl71Pw&usqp=CAU");
+}
+.main{
+    background-color:gray;
+    height: 300px;
+    width: 400px;
+    position :relative;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,50%);
+    border:6px solid rgb(104, 6, 6);
+    border-radius: 40px;
+
+}
+#longurl
+{
+    position: relative;
+    top:10%;
+    left:15%;
+    height:40px;
+    width:150px;
+    border:2px solid black;
+    border-radius: 14px;
+    padding-left: 40px;
+    padding-right:20px;
+    font-size: large;
+    font-family: monospace;
+    font-weight: bold;
+}
+#shorturl
+{
+    position: relative;
+    top:10%;
+    left:15%;
+    height:40px;
+    width:150px;
+    border:2px solid black;
+    border-radius: 14px;
+    padding-left: 40px;
+    padding-right:20px;
+    font-size: large;
+    font-family: monospace;
+    font-weight: bold;
+}
+button
+{
+    position:relative;
+    top:10%;
+    left:15%;
+    height: 35px;
+    width:85px;
+    border:2px solid black;
+    border-radius: 10px;
+    font-size: large;
+    font-family: monospace;
+    font-weight: bold;
+    color: rgb(239, 217, 213);
+    background-color: rgb(89, 23, 11);
+    
+}
+#short
+{
+    background-color: blueviolet;
+}
+
+
+. main p{
+
+    position:relative;
+    top: 45%;
+    left:10%;
+    height: 60px;
+    width: 400px;
+    font-size: large;
+    font-family: monospace;
+    font-weight: bold;
+
+}
+p{
+    padding-left: 100px;
+    font-style:italic;
+    font-size: 28px;
+    color: rgb(88, 5, 5);
+    padding-top: 50px;
+
+}
